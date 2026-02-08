@@ -1,7 +1,6 @@
-
 # Semantische Frames im Migrations- und Bildungsdiskurs der <i>tagesschau</i>
 
-Dieser Netzwerkgraph wurde als Begleitmaterial für Scholl (2026) erstellt. Er zeigt die Ergebnisse einer qualitativen Diskursanalyse im Migrations- und Bildungsdiskurs der _tagesschau_ im Untersuchungszeitraum von Februar 2022 bis Februar 2025. Ein zentraler Bestandteil der Untersuchung ist die Analyse der Verbindungen zwischen Schlüsselwortkategorien (runde Knoten) und semantischen Frames (eckige Knoten).
+Dieser Netzwerkgraph wurde als Begleitmaterial für Scholl (im Druck) erstellt. Er zeigt die Ergebnisse einer qualitativen Diskursanalyse im Migrations- und Bildungsdiskurs der _tagesschau_ im Untersuchungszeitraum von Februar 2022 bis Februar 2025. Ein zentraler Bestandteil der Untersuchung ist die Analyse der Verbindungen zwischen Schlüsselwortkategorien (runde Knoten) und semantischen Frames (eckige Knoten).
 
 Die Knoten und Kanten des Graphen sind nach Frequenz bzw. Gewicht skaliert. So lässt sich an der Größe der Knoten ablesen, welche Schlüsselwörter/Frames am häufigsten vorkommen, während die Stärke der Kanten anzeigt, wie oft eine Verbindung zwischen Schlüsselwortkategorien und Frames jeweils nachweisbar ist. Verbindung meint hier eine Kohärenzrelation zwischen Schlüsselwort und Frame, auf textueller Ebene. In dieser Visualisierung wurden die Größenverhältnisse der Knoten visuell angepasst, für eine bessere Lesbarkeit. Dabei wird die Größe aller Knoten um das 1,5-fache reduziert. Eine feste Mindestgröße (2 px) stellt jedoch sicher, dass die kleinsten Knoten weiterhin sichtbar bleiben. 
 
@@ -19,8 +18,9 @@ Die interaktive Webversion der Visualisierung wurde mit KI-Unterstützung durch 
 
 # Referenzen
 
-Im Folgenden sind alle Frames und Korpusbelege verzeichnet, die im <a href="www.sigmajs.org" target="_blank">Netzwerkgraphen</a> zitiert werden.
+## Literatur
 
+Scholl, P. (im Druck). Semantische Frames in der Tagesschau. Eine Diskurssemantische Untersuchung am Nexus von Migration und Bildung. In Kocyba, K. & Kofer, M. _Demokratiebildung in Theorie und Praxis. Synergien zwischen Schulforschung und Deutschdidaktik._ Potsdamer Beiträge zur Lehrkräftebildung und Bildungsforschung. Universitätsverlag Potsdam. 
 
 ## Korpusbelege
 
@@ -129,6 +129,8 @@ Sen, J. (14.06.2022). *tagesschau, 20:00 Uhr*. ARD. URL:
 [Letzter Abruf: 01.07.2025].
 
 ## Frames im FrameNet-Konstruktikon des Deutschen
+
+Im Folgenden sind alle Frames und Korpusbelege verzeichnet, die im <a href="https://github.com/elpeero/framenetz" target="_blank">Netzwerkgraphen</a> zitiert werden.
 
 Gehrecke, F. (o. D. a). *Absichtlich_handeln*. FrameNet-Konstruktikon des
 Deutschen. URL: https://framenet-constructicon.hhu.de/framenet/frame?id=479
@@ -560,4 +562,5 @@ Heinrich-Heine-Universität Düsseldorf (o. D. ah). *Zurücklassen*.
 FrameNet-Konstruktikon des Deutschen. URL:
 https://framenet-constructicon.hhu.de/framenet/frame?id=510 [Letzter Abruf:
     07.02.2026].
+
 
