@@ -1,0 +1,6758 @@
+{
+  "nodes": [
+    {
+      "key": "Migration",
+      "label": "Migration",
+      "size": 31.0,
+      "sizeMigration": 18.5,
+      "sizeEducation": 12.5,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": [
+        "Migration"
+      ],
+      "node_type": "keyword",
+      "data_points": [
+        {
+          "text": "ukrainischen",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Ausländische",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 2
+        },
+        {
+          "text": "Qualifizierten Arbeitskräften aus Nicht-EU-Ländern",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Arbeitskräften aus Nicht-EU-Ländern",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "zugewandert",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 3
+        },
+        {
+          "text": "zugewanderter Schüler",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        },
+        {
+          "text": "Migrationsanteil",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 3
+        },
+        {
+          "text": "Inderinnen und Inder",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Rennen um junge Talente",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 5
+        },
+        {
+          "text": "junge Inderinnen und Inder",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Visum",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 2
+        },
+        {
+          "text": "internationaler",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 3
+        },
+        {
+          "text": "aus der Ukraine",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "aus Afghanistan gekommen",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "ausländische",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "aus dem Ausland",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 3
+        },
+        {
+          "text": "unterschiedlichster Herkunft",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 5
+        },
+        {
+          "text": "eingewanderten",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 4
+        },
+        {
+          "text": "Migranten",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 4
+        },
+        {
+          "text": "In Deutschland",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 2
+        },
+        {
+          "text": "kommen aus verschiedensten Ländern",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 4
+        },
+        {
+          "text": "aus Ländern wie Syrien oder Afghanistan kommen",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Migration",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "wollen in Deutschland leben",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 2
+        },
+        {
+          "text": "kam sie aus Chile",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 2
+        },
+        {
+          "text": "Zugewanderte",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 2
+        },
+        {
+          "text": "Migration",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 4
+        },
+        {
+          "text": "Zuwanderung",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "",
+      "url": "",
+      "x": 10.684247016906738,
+      "y": 35.3864631652832
+    },
+    {
+      "key": "Ausland_oder_Inland",
+      "label": "Ausland_oder_Inland",
+      "size": 3.0,
+      "sizeMigration": 3.0,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "ukrainischen",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Ausländische",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Inland",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "aus dem Ausland",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "In Deutschland",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "kam sie aus Chile",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. b)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=208",
+      "x": -30.79918384552002,
+      "y": 60.430171966552734
+    },
+    {
+      "key": "Ausbildung",
+      "label": "Ausbildung",
+      "size": 15.0,
+      "sizeMigration": 11.0,
+      "sizeEducation": 4.0,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": [
+        "Migration"
+      ],
+      "node_type": "keyword",
+      "data_points": [
+        {
+          "text": "Berufsabschlüssen",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Berufsabschlüsse",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 3
+        },
+        {
+          "text": "Ausbildungshilfen",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 5
+        },
+        {
+          "text": "Ausbildung",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Lehre",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 2
+        },
+        {
+          "text": "Ausbildung",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "Fortbildungen",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 2
+        },
+        {
+          "text": "weiterzubilden",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 2
+        },
+        {
+          "text": "mache ich Erzieherin oder beim Zahnarzt Helferin",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Berufsausbildung",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        },
+        {
+          "text": "Ausbildung",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 7
+        },
+        {
+          "text": "beruflichen Abschlüssen und Qualifikationen",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 4
+        }
+      ],
+      "citation": "",
+      "url": "",
+      "x": -12.28971004486084,
+      "y": 51.89724349975586
+    },
+    {
+      "key": "Dokumente",
+      "label": "Dokumente",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Berufsabschlüssen",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Berufsabschlüsse",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Dokumente",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "beruflichen Abschlüssen und Qualifikationen; bescheinigt",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. g)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1109",
+      "x": -53.98542594909668,
+      "y": 39.423423767089844
+    },
+    {
+      "key": "Geflüchtete",
+      "label": "Geflüchtete",
+      "size": 37.0,
+      "sizeMigration": 33.5,
+      "sizeEducation": 3.5,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": [
+        "Migration"
+      ],
+      "node_type": "keyword",
+      "data_points": [
+        {
+          "text": "Flüchtlinge",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Geflüchtete",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Geflüchteten",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 3
+        },
+        {
+          "text": "Geflüchtete",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 2
+        },
+        {
+          "text": "Flüchtlingsverbände",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 1
+        },
+        {
+          "text": "Ausreisepflichtige",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "geduldet",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 3
+        },
+        {
+          "text": "Geflüchtete",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 10
+        },
+        {
+          "text": "Flüchtlinge",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 2
+        },
+        {
+          "text": "Asylbewerber",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Flüchtlinge",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 2
+        },
+        {
+          "text": "Menschen aus der Ukraine",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Geflüchtete",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Flüchtlinge",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 8
+        },
+        {
+          "text": "Geflüchtete",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "ukrainische",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 3
+        },
+        {
+          "text": "Flüchtlinge",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 4
+        },
+        {
+          "text": "Geflüchtete",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Fluchtbewegungen",
+          "citation": "(Riewa, 17.10.2022)",
+          "count": 3
+        },
+        {
+          "text": "Flüchtlingsunterkunft",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 3
+        },
+        {
+          "text": "Geflüchtete",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 7
+        },
+        {
+          "text": "Flucht",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 3
+        },
+        {
+          "text": "Flüchtlingen",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 2
+        },
+        {
+          "text": "Flüchtlingskinder",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 3
+        },
+        {
+          "text": "Geflüchteten",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "Asylbewerber",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Geflüchtete",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 4
+        },
+        {
+          "text": "Flüchtlingsvereins",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "",
+      "url": "",
+      "x": -5.4211732149124146,
+      "y": -50.31822204589844
+    },
+    {
+      "key": "Flüchten",
+      "label": "Flüchten",
+      "size": 6.5,
+      "sizeMigration": 6.0,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Geflüchtete",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Geflüchteten",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 1
+        },
+        {
+          "text": "Geflüchtete",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 1
+        },
+        {
+          "text": "Flüchtlinge",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Flüchtlinge",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Flüchtlinge",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Flüchtlinge",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Geflüchtete",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        },
+        {
+          "text": "Flucht",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "Flüchtlingen",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 2
+        },
+        {
+          "text": "Flüchtlingskinder",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "Geflüchtete",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. i)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=324",
+      "x": 47.78280830383301,
+      "y": -45.733734130859375
+    },
+    {
+      "key": "Arbeitsmarkt",
+      "label": "Arbeitsmarkt",
+      "size": 15.0,
+      "sizeMigration": 11.0,
+      "sizeEducation": 4.0,
+      "color": "#882255",
+      "borderColor": "#5e1839",
+      "cluster": "Arbeit",
+      "category": [
+        "Migration"
+      ],
+      "node_type": "keyword",
+      "data_points": [
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 3
+        },
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 4
+        },
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Rennen um junge Talente",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Inderinnen und Inder",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 3
+        },
+        {
+          "text": "Schule",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Fachkräfte",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 2
+        },
+        {
+          "text": "Personalmangel",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 2
+        },
+        {
+          "text": "Fachkräftemangel",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 2
+        },
+        {
+          "text": "für die Zuwanderung ausländischer Fachkräfte werben",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 2
+        },
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 3
+        },
+        {
+          "text": "Fachkräftemangel",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        },
+        {
+          "text": "Arbeitsmarktexperten",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        },
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "",
+      "url": "",
+      "x": -44.75402355194092,
+      "y": 25.87782096862793
+    },
+    {
+      "key": "Handel_Szenario",
+      "label": "Handel_Szenario",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#882255",
+      "borderColor": "#5e1839",
+      "cluster": "Arbeit",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 1
+        },
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Nachfrage",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. r)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1174",
+      "x": 27.757450103759766,
+      "y": -10.417901039123535
+    },
+    {
+      "key": "Lokatives_Szenario",
+      "label": "Lokatives_Szenario",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#882255",
+      "borderColor": "#5e1839",
+      "cluster": "Arbeit",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "auf dem deutschen Arbeitsmarkt",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. p)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=842",
+      "x": -80.9007568359375,
+      "y": 48.44056701660156
+    },
+    {
+      "key": "Sprachkurs",
+      "label": "Sprachkurs",
+      "size": 17.0,
+      "sizeMigration": 17.0,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": [
+        "Migration"
+      ],
+      "node_type": "keyword",
+      "data_points": [
+        {
+          "text": "Sprachkursen",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 2
+        },
+        {
+          "text": "Sprachkurse",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 2
+        },
+        {
+          "text": "Sprachkurs",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 2
+        },
+        {
+          "text": "Sprachkursen",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 3
+        },
+        {
+          "text": "Sprachkurse",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 3
+        },
+        {
+          "text": "Sprachkurs",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 2
+        },
+        {
+          "text": "Deutschkurse",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 3
+        },
+        {
+          "text": "Integrationskurse",
+          "citation": "(Daubner, 24.10.2024a)",
+          "count": 1
+        },
+        {
+          "text": "Spracherwerb",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Sprachunterricht",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 3
+        },
+        {
+          "text": "Deutschkurs",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 1
+        },
+        {
+          "text": "Kurs",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Kursleiterinnen",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Sprachkurse",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Integrationskurs",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 3
+        },
+        {
+          "text": "Sprachkurs",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 4
+        },
+        {
+          "text": "Sprachkurse",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "",
+      "url": "",
+      "x": 22.892240524291992,
+      "y": -34.75725173950195
+    },
+    {
+      "key": "Bildung_Lehre",
+      "label": "Bildung_Lehre",
+      "size": 14.0,
+      "sizeMigration": 10.0,
+      "sizeEducation": 4.0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Sprachkurse",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Sprachkurse",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 1
+        },
+        {
+          "text": "Ausbildung",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Unterricht",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        },
+        {
+          "text": "Abschluss",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "Sprachkurs",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 1
+        },
+        {
+          "text": "Sprachkursen",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Sprachkurse",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Unterricht",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Schulbildung",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Sprachkurs",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Schule",
+          "citation": "(Riewa, 17.10.2022)",
+          "count": 1
+        },
+        {
+          "text": "lernen",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Deutschkurse",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        },
+        {
+          "text": "Abschluss",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Unterricht",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "seine Lehre gemacht",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "lernen",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        },
+        {
+          "text": "gelernt",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "Schulabschluss",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "mache ich",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Spracherwerb",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Sprachunterricht",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 1
+        },
+        {
+          "text": "Deutschkurs",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 1
+        },
+        {
+          "text": "Schüler",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "lernen",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Ausbildung oder Abitur",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        },
+        {
+          "text": "Lernen",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. f)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=48",
+      "x": -18.253098964691162,
+      "y": 6.07859992980957
+    },
+    {
+      "key": "Integration",
+      "label": "Integration",
+      "size": 30.0,
+      "sizeMigration": 30.0,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": [
+        "Migration"
+      ],
+      "node_type": "keyword",
+      "data_points": [
+        {
+          "text": "Integration",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "auf dem deutschen Arbeitsmarkt Fuß fassen",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Integration",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 2
+        },
+        {
+          "text": "integriert",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 7
+        },
+        {
+          "text": "Voraussetzungen für ein Bleiberecht nachzuholen",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 3
+        },
+        {
+          "text": "Eingliederung",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 3
+        },
+        {
+          "text": "Integrationskraft",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 2
+        },
+        {
+          "text": "integriert",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 2
+        },
+        {
+          "text": "Integration",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Integration",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 2
+        },
+        {
+          "text": "Integrationsmöglichkeiten",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        },
+        {
+          "text": "Integration",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 2
+        },
+        {
+          "text": "integrieren",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 2
+        },
+        {
+          "text": "Integrationsfähigkeit",
+          "citation": "(Daubner, 24.10.2024a)",
+          "count": 3
+        },
+        {
+          "text": "Staatsbürgerschaft",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "Einbürgerungstest",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "Einbürgerung",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 2
+        },
+        {
+          "text": "richtig angekommen",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "Integration",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 5
+        },
+        {
+          "text": "Integration",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 5
+        },
+        {
+          "text": "integrieren",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 2
+        },
+        {
+          "text": "Integrationshilfen",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 4
+        },
+        {
+          "text": "Integrationskurs",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "arbeiten",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Integration",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 5
+        }
+      ],
+      "citation": "",
+      "url": "",
+      "x": -67.56342315673828,
+      "y": -9.25027847290039
+    },
+    {
+      "key": "Umfassen",
+      "label": "Umfassen",
+      "size": 6.0,
+      "sizeMigration": 6.0,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Fuß fassen",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Integration; integriert",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 1
+        },
+        {
+          "text": "integriert",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Eingliederung",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "integriert",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Integration",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Integration",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        },
+        {
+          "text": "Integrationsfähigkeit",
+          "citation": "(Daubner, 24.10.2024a)",
+          "count": 1
+        },
+        {
+          "text": "nach der Flucht richtig angekommen",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "Eingliederung; Integration",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "integrieren",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Integration",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. v)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=70",
+      "x": -18.249451160430908,
+      "y": -3.2370786666870117
+    },
+    {
+      "key": "Voraussetzung_Szenario",
+      "label": "Voraussetzung_Szenario",
+      "size": 5.0,
+      "sizeMigration": 4.5,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Voraussetzungen",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Wenn",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Voraussetzungen",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "erfordert",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "bedarf",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        },
+        {
+          "text": "Damit",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        },
+        {
+          "text": "Um arbeiten zu können",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "notwendig",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "brauche ich",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        },
+        {
+          "text": "muss",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. x)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=211",
+      "x": -2.8134443163871765,
+      "y": -0.6487849950790405
+    },
+    {
+      "key": "Personen_nach_Herkunft",
+      "label": "Personen_nach_Herkunft",
+      "size": 4.0,
+      "sizeMigration": 3.0,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Geflüchtete aus der Ukraine",
+          "citation": "(Schröder, 30.03.2022)",
+          "count": 1
+        },
+        {
+          "text": "Ausländer",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Menschen aus der Ukraine",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Inder und Inderinnen",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "aus der Ukraine",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "nichtdeutschen Familien",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "aus Afghanistan",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "aus der Ukraine",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. t)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1214",
+      "x": -13.844680309295654,
+      "y": -20.835830688476562
+    },
+    {
+      "key": "Behandeln_und_Misshandeln",
+      "label": "Behandeln_und_Misshandeln",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "nicht unterschiedlich behandeln",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 1
+        },
+        {
+          "text": "behandelt",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. c)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=836",
+      "x": 23.94475793838501,
+      "y": -50.06877899169922
+    },
+    {
+      "key": "Unterstützen",
+      "label": "Unterstützen",
+      "size": 6.0,
+      "sizeMigration": 3.5,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "kümmern",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 1
+        },
+        {
+          "text": "Ausbildungshilfen",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Förderung",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        },
+        {
+          "text": "gefördert werden",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "Perspektiven geschaffen werden",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Unterstützung",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "kümmern",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 2
+        },
+        {
+          "text": "Sprachförderung",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        },
+        {
+          "text": "gefördert werden",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "Unterstützung",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Förderangebote",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. x)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=483",
+      "x": 2.147987186908722,
+      "y": 9.512842178344727
+    },
+    {
+      "key": "Helfen",
+      "label": "Helfen",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Hilfe",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 1
+        },
+        {
+          "text": "Helfer",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 1
+        },
+        {
+          "text": "Hilfen",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "begleiten",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. n)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1024",
+      "x": -66.52273750305176,
+      "y": -25.952505111694336
+    },
+    {
+      "key": "Beurteilung_kommunizieren",
+      "label": "Beurteilung_kommunizieren",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "kritisieren",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 1
+        },
+        {
+          "text": "muss klargemacht werden",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "stoßen auf Kritik",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. d)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=578",
+      "x": -56.985185623168945,
+      "y": -48.32877731323242
+    },
+    {
+      "key": "Suchen",
+      "label": "Suchen",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#882255",
+      "borderColor": "#5e1839",
+      "cluster": "Arbeit",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "sucht",
+          "citation": "(Sen, 14.06.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. ac)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=799",
+      "x": -86.04802894592285,
+      "y": 44.542335510253906
+    },
+    {
+      "key": "Personen_nach_Alter",
+      "label": "Personen_nach_Alter",
+      "size": 3.0,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "junge Menschen",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "junge",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Jugendlichen",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 2
+        },
+        {
+          "text": "junge Leute",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "junge Erwachsene",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. s)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1213",
+      "x": 38.02169609069824,
+      "y": 53.120079040527344
+    },
+    {
+      "key": "Berufstätigkeit",
+      "label": "Berufstätigkeit",
+      "size": 14.0,
+      "sizeMigration": 14.0,
+      "sizeEducation": 0,
+      "color": "#882255",
+      "borderColor": "#5e1839",
+      "cluster": "Arbeit",
+      "category": [
+        "Migration"
+      ],
+      "node_type": "keyword",
+      "data_points": [
+        {
+          "text": "Erwerbsleben",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 3
+        },
+        {
+          "text": "Stelle",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Stelle anzunehmen",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Beruf",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 3
+        },
+        {
+          "text": "arbeiten",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 3
+        },
+        {
+          "text": "beschäftigt",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Arbeit",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 3
+        },
+        {
+          "text": "Berufserfahrung",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "Geselle",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "Arbeit",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "arbeiten",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 4
+        },
+        {
+          "text": "beschäftigen",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "integrieren",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Job gefunden",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        },
+        {
+          "text": "Job",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 3
+        }
+      ],
+      "citation": "",
+      "url": "",
+      "x": 9.34406304359436,
+      "y": -5.060595989227295
+    },
+    {
+      "key": "Erwerbstätigkeit",
+      "label": "Erwerbstätigkeit",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#882255",
+      "borderColor": "#5e1839",
+      "cluster": "Arbeit",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Erwerbsleben",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Beruf",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. h)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=849",
+      "x": 7.8534836769104,
+      "y": 52.71421813964844
+    },
+    {
+      "key": "Gelegenheit",
+      "label": "Gelegenheit",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Chance",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Chancen",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Startchancen",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        },
+        {
+          "text": "Chancen",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. n)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=644",
+      "x": -4.334653615951538,
+      "y": 25.442365646362305
+    },
+    {
+      "key": "Job_bekommen",
+      "label": "Job_bekommen",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#882255",
+      "borderColor": "#5e1839",
+      "cluster": "Arbeit",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Stelle anzunehmen",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "kommen [...] an Arbeit",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "einen Job gefunden",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. s)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=953",
+      "x": -6.204972982406616,
+      "y": 15.595051765441895
+    },
+    {
+      "key": "Schwierigkeit",
+      "label": "Schwierigkeit",
+      "size": 8.0,
+      "sizeMigration": 6.0,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "erleichtert",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "erleichtern",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Schwierigkeiten",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 1
+        },
+        {
+          "text": "soll vereinfacht werden",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "können [...] nicht mehr händeln",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "größere Probleme haben",
+          "citation": "(Riewa, 17.10.2022)",
+          "count": 1
+        },
+        {
+          "text": "leichter werden",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "schwer",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "erleichtern",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "schwerer falle",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        },
+        {
+          "text": "schwer",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "schwer",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 2
+        },
+        {
+          "text": "Herausforderungen",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "mühsam",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "vereinfacht werden",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. u)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1007",
+      "x": -23.136159896850586,
+      "y": 14.892912864685059
+    },
+    {
+      "key": "Schule",
+      "label": "Schule",
+      "size": 44.5,
+      "sizeMigration": 10.5,
+      "sizeEducation": 34.0,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": [
+        "Migration"
+      ],
+      "node_type": "keyword",
+      "data_points": [
+        {
+          "text": "Schulbank",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        },
+        {
+          "text": "Schüler",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 6
+        },
+        {
+          "text": "Schüler*innen",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 3
+        },
+        {
+          "text": "Mathematik",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 2
+        },
+        {
+          "text": "Abschluss",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 5
+        },
+        {
+          "text": "Schulen",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 3
+        },
+        {
+          "text": "Bildungsministerin",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "Schüler",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 4
+        },
+        {
+          "text": "Schulen",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 5
+        },
+        {
+          "text": "Schulbildung",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 3
+        },
+        {
+          "text": "Lehrkräfte und Schulräume",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Schule",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Schüler",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Schule",
+          "citation": "(Riewa, 17.10.2022)",
+          "count": 3
+        },
+        {
+          "text": "Schülerschaft",
+          "citation": "(Riewa, 17.10.2022)",
+          "count": 1
+        },
+        {
+          "text": "vorbereitet",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Grundschüler",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 5
+        },
+        {
+          "text": "Schule",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 4
+        },
+        {
+          "text": "Lehrer",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Kindern",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Arbeitsmarkt",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Schulen",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 9
+        },
+        {
+          "text": "Schulen",
+          "citation": "(Daubner, 24.10.2024a)",
+          "count": 1
+        },
+        {
+          "text": "Unterrichtsausfall",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 3
+        },
+        {
+          "text": "Schulen",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 2
+        },
+        {
+          "text": "Schulabschluss",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 4
+        },
+        {
+          "text": "Hauptschulabschluss",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "keinen Hauptschulabschluss",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 2
+        },
+        {
+          "text": "Schulplätzen",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 1
+        },
+        {
+          "text": "Schulstandorte",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 3
+        },
+        {
+          "text": "Schulleiterin",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "Schulen",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "Schüler",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "Schulsystem",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 7
+        }
+      ],
+      "citation": "",
+      "url": "",
+      "x": 62.86134338378906,
+      "y": 1.2164678573608398
+    },
+    {
+      "key": "Unsicherheit",
+      "label": "Unsicherheit",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "ins Nichts fällt",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. ad)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=807",
+      "x": 111.06822967529297,
+      "y": -9.297086715698242
+    },
+    {
+      "key": "Verpflichtung_Szenario",
+      "label": "Verpflichtung_Szenario",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Ausreisepflichtige",
+          "citation": "(Schreiber, 23.06.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Triesch, S., o. D. a)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=212",
+      "x": -11.993376731872559,
+      "y": -83.08135223388672
+    },
+    {
+      "key": "Deutsch",
+      "label": "Deutsch",
+      "size": 17.0,
+      "sizeMigration": 14.0,
+      "sizeEducation": 3.0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": [
+        "Migration"
+      ],
+      "node_type": "keyword",
+      "data_points": [
+        {
+          "text": "Sprachkenntnisse",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 6
+        },
+        {
+          "text": "Deutsch",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "die Sprache",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Deutsch",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Deutsch",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "unsere Sprache",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "Deutsch",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 2
+        },
+        {
+          "text": "Deutsch",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 3
+        },
+        {
+          "text": "Sprach-und Einbürgerungstest",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "Sprach-",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "mit der Sprache",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "Deutsch",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 4
+        },
+        {
+          "text": "Sprachkenntnisse",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Spracherwerb",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Deutsch",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 2
+        },
+        {
+          "text": "Deutsch",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 3
+        },
+        {
+          "text": "Deutschkenntnisse",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 2
+        },
+        {
+          "text": "sprechen und schreiben wie in der Muttersprache",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 2
+        }
+      ],
+      "citation": "",
+      "url": "",
+      "x": -60.13011932373047,
+      "y": 10.148950576782227
+    },
+    {
+      "key": "Absichtlich_handeln",
+      "label": "Absichtlich_handeln",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "sich integriert haben",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. a)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=479",
+      "x": -55.311933517456055,
+      "y": -13.871374130249023
+    },
+    {
+      "key": "Erfolgreiche_Vollendung",
+      "label": "Erfolgreiche_Vollendung",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Wenn sie sich integriert haben",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. g)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=227",
+      "x": -107.82694244384766,
+      "y": -16.19106101989746
+    },
+    {
+      "key": "Nutzen_oder_Schaden_verursachen",
+      "label": "Nutzen_oder_Schaden_verursachen",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Verbesserungen",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. v)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=822",
+      "x": -62.988956451416016,
+      "y": -46.05868148803711
+    },
+    {
+      "key": "Temporärer_Aufenthalt",
+      "label": "Temporärer_Aufenthalt",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Ausländer [...] die nur geduldet sind",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. w)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=422",
+      "x": -7.03657865524292,
+      "y": -80.04869842529297
+    },
+    {
+      "key": "Wohnsitz",
+      "label": "Wohnsitz",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "dauerhaften Aufenthalt",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Triesch, S., o. D. e)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=448",
+      "x": -112.19388198852539,
+      "y": -9.932048797607422
+    },
+    {
+      "key": "Kompetenz",
+      "label": "Kompetenz",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Sprachkenntnisse",
+          "citation": "(Daubner, 02.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Sprachkenntnisse",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "können kein Deutsch",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "gut Deutsch spreche",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "sprechen und schreiben wie in der Muttersprache; Schlüsselqualifikation",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. p)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=163",
+      "x": -50.658639907836914,
+      "y": -28.083843231201172
+    },
+    {
+      "key": "Ankommen",
+      "label": "Ankommen",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "zugewandert",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        },
+        {
+          "text": "kommen",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "neu eingewanderten",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        },
+        {
+          "text": "kam",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. c)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1104",
+      "x": 39.94522190093994,
+      "y": -12.665120124816895
+    },
+    {
+      "key": "Benötigen",
+      "label": "Benötigen",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Bedarf; Handlungsbedarf",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. d)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=168",
+      "x": 114.83139038085938,
+      "y": 4.406386375427246
+    },
+    {
+      "key": "Bewerten",
+      "label": "Bewerten",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Gemessen",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        },
+        {
+          "text": "anerkannte",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Anerkennung von beruflichen Abschlüssen und Qualifikationen",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. h)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1096",
+      "x": -25.069418907165527,
+      "y": -8.860331535339355
+    },
+    {
+      "key": "Fähigkeit",
+      "label": "Fähigkeit",
+      "size": 3.5,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Leistung; Kompetenzen",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        },
+        {
+          "text": "Lese- und Schreibfähigkeit; Sprachfähigkeit",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Lesekompetenz",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "Integrationsfähigkeit",
+          "citation": "(Daubner, 24.10.2024a)",
+          "count": 1
+        },
+        {
+          "text": "unsere Sprache sprechen",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "#NAME?",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        },
+        {
+          "text": "können [...] Deutsch",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. j)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1221",
+      "x": 10.087999820709229,
+      "y": 9.128972053527832
+    },
+    {
+      "key": "Messen_Szenario",
+      "label": "Messen_Szenario",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Gemessen",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. r)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=341",
+      "x": 107.12935638427734,
+      "y": 3.079998254776001
+    },
+    {
+      "key": "Sprache",
+      "label": "Sprache",
+      "size": 9.0,
+      "sizeMigration": 3,
+      "sizeEducation": 6.5,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": [
+        "Bildung"
+      ],
+      "node_type": "keyword",
+      "data_points": [
+        {
+          "text": "fehlende Sprachkenntnisse",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        },
+        {
+          "text": "wo kaum Deutsch gesprochen wird",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "Muttersprache nicht Deutsch",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "andere Muttersprache",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 4
+        },
+        {
+          "text": "Sprachkenntnisse",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "Sprachförderung und -kompetenz",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 6
+        },
+        {
+          "text": "Spracherwerb",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Englisch",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Sprache",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 2
+        }
+      ],
+      "citation": "",
+      "url": "",
+      "x": 25.449583053588867,
+      "y": 19.198970794677734
+    },
+    {
+      "key": "Systemkomplexität",
+      "label": "Systemkomplexität",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "vielschichtig",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. v)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=667",
+      "x": 55.510305404663086,
+      "y": 30.89518928527832
+    },
+    {
+      "key": "Wertänderung_auf_Skala",
+      "label": "Wertänderung_auf_Skala",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Leistungsabfall",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        },
+        {
+          "text": "gehen [...] nach unten",
+          "citation": "(Riewa, 17.10.2022)",
+          "count": 1
+        },
+        {
+          "text": "Trend; hat zugenommen; zu erhöhen",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Entwicklung: negativ",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. aa)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1194",
+      "x": 70.85584259033203,
+      "y": 28.787538528442383
+    },
+    {
+      "key": "Zielen",
+      "label": "Zielen",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "zielgerichtet",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. ac)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=432",
+      "x": 113.8846321105957,
+      "y": -4.819042682647705
+    },
+    {
+      "key": "Zurückgelegter_Weg",
+      "label": "Zurückgelegter_Weg",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Seit Jahren [...] am Ende",
+          "citation": "(Riewa, 05.12.2023)",
+          "count": 1
+        },
+        {
+          "text": "Bildungsweg",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "gehen",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Ziel",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. ag)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=273",
+      "x": 38.02433109283447,
+      "y": 33.040924072265625
+    },
+    {
+      "key": "Ähnlichkeit",
+      "label": "Ähnlichkeit",
+      "size": 3.0,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Chancengleichheit; Bildungsungleichheit; Auf der einen Seite [...] Dann sind da",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "unterschiedlichen",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "unterschiedlichster; gleiche",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        },
+        {
+          "text": "verschieden",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "geht die Schere [...] auseinander",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        },
+        {
+          "text": "Vergleich",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. ae)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1074",
+      "x": 26.687870979309082,
+      "y": 8.94922924041748
+    },
+    {
+      "key": "Empfangen",
+      "label": "Empfangen",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "bekommen",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "nehmen",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 1
+        },
+        {
+          "text": "kommen leichter an",
+          "citation": "(Schreiber, 08.04.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. i)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1045",
+      "x": 41.13969039916992,
+      "y": -36.687110900878906
+    },
+    {
+      "key": "Erfolg_oder_Fehlschlag",
+      "label": "Erfolg_oder_Fehlschlag",
+      "size": 3.5,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "machen ihren Abschluss",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "gelingt so nicht",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        },
+        {
+          "text": "Abschluss",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "scheitern",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        },
+        {
+          "text": "bestanden",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "keine Ausbildung oder Abitur",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        },
+        {
+          "text": "auf der Strecke bleiben",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. j)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=178",
+      "x": -24.894295692443848,
+      "y": 31.715600967407227
+    },
+    {
+      "key": "Gefährdet_sein",
+      "label": "Gefährdet_sein",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "armutsgefährdet",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. m)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=248",
+      "x": 80.34579849243164,
+      "y": 20.41929054260254
+    },
+    {
+      "key": "Geld",
+      "label": "Geld",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Geld",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "investiert",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. m)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=366",
+      "x": -23.21894359588623,
+      "y": -16.009923934936523
+    },
+    {
+      "key": "Gradierbare_Attribute",
+      "label": "Gradierbare_Attribute",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Chancengleichheit zu erhöhen; extreme Bildungsungleichheit",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "stark zugenommen",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. p)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=6",
+      "x": 60.720726013183594,
+      "y": -39.604888916015625
+    },
+    {
+      "key": "Herkunft",
+      "label": "Herkunft",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Herkunft",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "Herkunft",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. n)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=47",
+      "x": 73.85873794555664,
+      "y": 34.000640869140625
+    },
+    {
+      "key": "Institutionen",
+      "label": "Institutionen",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Bildungsministerium",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. o)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=285",
+      "x": 110.96494674682617,
+      "y": 8.459161758422852
+    },
+    {
+      "key": "Platzieren",
+      "label": "Platzieren",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "situierten",
+          "citation": "(Riewa, 04.05.2023)",
+          "count": 2
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. x)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1119",
+      "x": 65.9868221282959,
+      "y": 32.309600830078125
+    },
+    {
+      "key": "Arbeit",
+      "label": "Arbeit",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "arbeiten",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. a)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=425",
+      "x": 15.160845279693604,
+      "y": -51.70378494262695
+    },
+    {
+      "key": "Bereitschaft",
+      "label": "Bereitschaft",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "sind nicht bereit",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 1
+        },
+        {
+          "text": "möchte; möchte",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "wollen",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "will",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. e)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=307",
+      "x": -10.676720380783081,
+      "y": -26.604164123535156
+    },
+    {
+      "key": "Bewertung_Sozialverhalten",
+      "label": "Bewertung_Sozialverhalten",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Probleme anzusprechen",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A. & Gehrecke, F., o. D. b)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1001",
+      "x": -10.301508665084839,
+      "y": -76.0278549194336
+    },
+    {
+      "key": "Wahrnehmung_aktiv",
+      "label": "Wahrnehmung_aktiv",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "beobachtet",
+          "citation": "(Riewa, 06.11.2023)",
+          "count": 1
+        },
+        {
+          "text": "hinschauen",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. y)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1127",
+      "x": 51.9711856842041,
+      "y": -18.006973266601562
+    },
+    {
+      "key": "Erforderliches_Ereignis",
+      "label": "Erforderliches_Ereignis",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Für; fordern",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "müssen dafür Sorge tragen",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "auf Zuwanderung angewiesen",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. k)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=175",
+      "x": -71.46042823791504,
+      "y": 22.831804275512695
+    },
+    {
+      "key": "Medizinische_Intervention",
+      "label": "Medizinische_Intervention",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "lindern",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Wirkung zeigen",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. q)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=830",
+      "x": 8.367608785629272,
+      "y": -20.80118751525879
+    },
+    {
+      "key": "Versorgung",
+      "label": "Versorgung",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "zur Verfügung stehen",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Angebot an",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "an ein Visum zu kommen",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Versorgung",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        },
+        {
+          "text": "Versorgung",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. ae)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=156",
+      "x": 45.26036739349365,
+      "y": -18.777000427246094
+    },
+    {
+      "key": "Beschäftigen",
+      "label": "Beschäftigen",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#882255",
+      "borderColor": "#5e1839",
+      "cluster": "Arbeit",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "beschäftigt",
+          "citation": "(Daubner, 19.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "beschäftigen",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. e)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=952",
+      "x": 46.36727714538574,
+      "y": -27.044452667236328
+    },
+    {
+      "key": "Eigenbewegung",
+      "label": "Eigenbewegung",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Rückkehr",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. h)",
+      "url": "https://framenet-https://framenet-constructicon.hhu.de/framenet/frame?id=1124constructicon.hhu.de/framenet/frame?id=1124",
+      "x": -17.21744155883789,
+      "y": -76.6902847290039
+    },
+    {
+      "key": "Kita",
+      "label": "Kita",
+      "size": 8.0,
+      "sizeMigration": 4.0,
+      "sizeEducation": 4.0,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": [
+        "Migration"
+      ],
+      "node_type": "keyword",
+      "data_points": [
+        {
+          "text": "Kindergärten",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 2
+        },
+        {
+          "text": "Kinderbetreuung",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 2
+        },
+        {
+          "text": "Kita",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Kindergärten",
+          "citation": "(Daubner, 24.10.2024a)",
+          "count": 1
+        },
+        {
+          "text": "frühkindlichen Bereich",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 7
+        },
+        {
+          "text": "Kita-",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 1
+        },
+        {
+          "text": "Kitaplätzen",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 2
+        }
+      ],
+      "citation": "",
+      "url": "",
+      "x": 43.658698081970215,
+      "y": 11.674925804138184
+    },
+    {
+      "key": "Emotionen_durch_Stimulus",
+      "label": "Emotionen_durch_Stimulus",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "wohlfühlen",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Unsicherheit",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. i)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=513",
+      "x": 27.97525978088379,
+      "y": -18.929542541503906
+    },
+    {
+      "key": "Erwarteter_Standort_der_Person",
+      "label": "Erwarteter_Standort_der_Person",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Heimat",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "zu Hause",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. j)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=298",
+      "x": 14.2847900390625,
+      "y": -29.318517684936523
+    },
+    {
+      "key": "Kostspieligkeit",
+      "label": "Kostspieligkeit",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "wird viel Geld kosten",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "Ausgaben [...] halbieren",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "kostet Geld",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "kann man es sich nicht leisten",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. q)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1176",
+      "x": -22.290491580963135,
+      "y": -26.715578079223633
+    },
+    {
+      "key": "Reaktion",
+      "label": "Reaktion",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Handlungsbedarf",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. u)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=138",
+      "x": 54.02868461608887,
+      "y": -40.7961311340332
+    },
+    {
+      "key": "Verbreitung",
+      "label": "Verbreitung",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "verteilt",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. y)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=778",
+      "x": -0.7107089906930923,
+      "y": -77.1776351928711
+    },
+    {
+      "key": "Politische_Örtlichkeit",
+      "label": "Politische_Örtlichkeit",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Deutschland",
+          "citation": "(Daubner, 25.04.2022)",
+          "count": 1
+        },
+        {
+          "text": "USA und Kanada",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. t)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=472",
+      "x": -40.129775047302246,
+      "y": -19.7160587310791
+    },
+    {
+      "key": "Angriff",
+      "label": "Angriff",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Angriffen",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. b)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1059",
+      "x": 5.276948690414429,
+      "y": -79.91349792480469
+    },
+    {
+      "key": "Gastfreundschaft",
+      "label": "Gastfreundschaft",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Willkommensort",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. l)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=478",
+      "x": 46.07480335235596,
+      "y": -63.07657241821289
+    },
+    {
+      "key": "Grad_des_Kraftwiderstandes",
+      "label": "Grad_des_Kraftwiderstandes",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Belastungsprobe",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Belastungsgrenze",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "schwachen",
+          "citation": "(Riewa, 17.10.2022)",
+          "count": 1
+        },
+        {
+          "text": "unter Druck",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. l)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=528",
+      "x": -4.81900691986084,
+      "y": -17.983135223388672
+    },
+    {
+      "key": "Persönliche_Beziehung",
+      "label": "Persönliche_Beziehung",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Freund",
+          "citation": "(Daubner, 16.02.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. w)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=10",
+      "x": -107.23695373535156,
+      "y": 15.666242599487305
+    },
+    {
+      "key": "Änderung_erfahren",
+      "label": "Änderung_erfahren",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "verändernde",
+          "citation": "(Riewa, 17.10.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumann-Schneider, A., o. D.)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=85",
+      "x": 55.45611763000488,
+      "y": -45.65282440185547
+    },
+    {
+      "key": "Ausdehnung_verursachen",
+      "label": "Ausdehnung_verursachen",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Zuwachs",
+          "citation": "(Riewa, 17.10.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A. & Gehrecke, F., o. D. a)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1157",
+      "x": -19.030385971069336,
+      "y": -81.48847198486328
+    },
+    {
+      "key": "Negativ_konditional",
+      "label": "Negativ_konditional",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Will Deutschland [...] nicht [...] muss",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        },
+        {
+          "text": "Forscher warnen [...] künftig könnten",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. u)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=889",
+      "x": -4.7623211145401,
+      "y": 36.158966064453125
+    },
+    {
+      "key": "Wettbewerbsausgang",
+      "label": "Wettbewerbsausgang",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Rennen [...] verlieren",
+          "citation": "(Sen, 26.02.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Triesch, S., o. D. d)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1168",
+      "x": -39.91195106506348,
+      "y": 52.65952682495117
+    },
+    {
+      "key": "Zwangslage",
+      "label": "Zwangslage",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Probleme",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        },
+        {
+          "text": "Problematiken",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        },
+        {
+          "text": "Problem",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Problem",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Probleme",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. z)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=921",
+      "x": -7.821764230728149,
+      "y": -11.14540958404541
+    },
+    {
+      "key": "Unterkunft_Szenario",
+      "label": "Unterkunft_Szenario",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Unterkunft",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. w)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=446",
+      "x": -1.5619699358940125,
+      "y": -82.99801635742188
+    },
+    {
+      "key": "Bauen",
+      "label": "Bauen",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "umgebaut",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        },
+        {
+          "text": "Baustelle",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "aufgebaut",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. c)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=724",
+      "x": -16.424878120422363,
+      "y": -35.24435043334961
+    },
+    {
+      "key": "Vertrautheit",
+      "label": "Vertrautheit",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Fremder",
+          "citation": "(Daubner, 24.10.2024b)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. af)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=276",
+      "x": -24.807103157043457,
+      "y": -74.69010162353516
+    },
+    {
+      "key": "Aktivitätsvorbereitung",
+      "label": "Aktivitätsvorbereitung",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "vorbereitet werden",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. a)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=347",
+      "x": 91.94325256347656,
+      "y": 15.937137603759766
+    },
+    {
+      "key": "Knappheit",
+      "label": "Knappheit",
+      "size": 3.5,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "mangelnde",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Personalmangel",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "mangelt",
+          "citation": "(Rakers, 11.10.2022)",
+          "count": 1
+        },
+        {
+          "text": "Platzmangel",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        },
+        {
+          "text": "Fachkräftemangel",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Fachkräftemangel",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        },
+        {
+          "text": "daran hapert es",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. t)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=284",
+      "x": 28.31876277923584,
+      "y": 44.51536560058594
+    },
+    {
+      "key": "Lesen_Aktivität",
+      "label": "Lesen_Aktivität",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "lesen; vorzulesen",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "liest; gelesen",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. o)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=865",
+      "x": 69.4548282623291,
+      "y": 38.750389099121094
+    },
+    {
+      "key": "Prüfung",
+      "label": "Prüfung",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "testen",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        },
+        {
+          "text": "Sprach- und Einbürgerungstest",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. z)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=31",
+      "x": -41.78533172607422,
+      "y": -1.753963828086853
+    },
+    {
+      "key": "Stimulus_Fokussierung",
+      "label": "Stimulus_Fokussierung",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "alarmierenden",
+          "citation": "(Schreiber, 09.12.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. ab)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=997",
+      "x": 106.13136291503906,
+      "y": -2.261655569076538
+    },
+    {
+      "key": "Diversität",
+      "label": "Diversität",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "internationaler",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "verschiedensten",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. f)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=426",
+      "x": 61.646484375,
+      "y": 41.60282516479492
+    },
+    {
+      "key": "Gradierbare_Nähe",
+      "label": "Gradierbare_Nähe",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "bildungsfernen",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "bildungsfernen",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. m)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=886",
+      "x": 20.3609676361084,
+      "y": 0.1849336475133896
+    },
+    {
+      "key": "Prozess_Start",
+      "label": "Prozess_Start",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Startbedingen",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        },
+        {
+          "text": "Anfang",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. y)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=148",
+      "x": 91.9119873046875,
+      "y": 10.775435447692871
+    },
+    {
+      "key": "Zustand_einer_Entität",
+      "label": "Zustand_einer_Entität",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Startbedingen",
+          "citation": "(Daubner, 16.05.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. ad)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=281",
+      "x": 104.33263778686523,
+      "y": -7.038891315460205
+    },
+    {
+      "key": "Grenze",
+      "label": "Grenze",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Grenze",
+          "citation": "(Daubner, 24.10.2024a)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. q)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=958",
+      "x": -113.20727920532227,
+      "y": -19.252973556518555
+    },
+    {
+      "key": "Wichtigkeit",
+      "label": "Wichtigkeit",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 3,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Dabei zählen",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        },
+        {
+          "text": "Wichtig",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. ab)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1040",
+      "x": 35.02213668823242,
+      "y": 39.127864837646484
+    },
+    {
+      "key": "Fachbereiche",
+      "label": "Fachbereiche",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "seine Lehre gemacht",
+          "citation": "(Schreiber, 07.09.2022)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. k)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=155",
+      "x": 12.918315410614014,
+      "y": 49.3929557800293
+    },
+    {
+      "key": "Wahrnehmung",
+      "label": "Wahrnehmung",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Lesen und Hörverstehen",
+          "citation": "(Rakers, 13.10.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Triesch, S., o. D. b)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1169",
+      "x": 105.26467895507812,
+      "y": -12.339393615722656
+    },
+    {
+      "key": "Bewegung",
+      "label": "Bewegung",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "nächster Schritt",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. g)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1138",
+      "x": -79.6523208618164,
+      "y": 28.80133056640625
+    },
+    {
+      "key": "Lobpreisung",
+      "label": "Lobpreisung",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "bin Deutschland dankbar",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. r)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1031",
+      "x": -25.780426025390625,
+      "y": -78.90706634521484
+    },
+    {
+      "key": "Personen_nach_Gerichtsbarkeit",
+      "label": "Personen_nach_Gerichtsbarkeit",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "deutsche Staatsbürgerschaft; Deutscher",
+          "citation": "(Riewa, 27.06.2024)",
+          "count": 1
+        },
+        {
+          "text": "Menschen aus Ländern wie Syrien oder Afghanistan",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Menschen aus EU-Ländern wie Österreich",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D s)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1221",
+      "x": -61.88437271118164,
+      "y": 25.4367618560791
+    },
+    {
+      "key": "Auswählen",
+      "label": "Auswählen",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Entscheidungen",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. b)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=984",
+      "x": -0.10021444782614708,
+      "y": 70.2923583984375
+    },
+    {
+      "key": "Behindern",
+      "label": "Behindern",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Hürde",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        },
+        {
+          "text": "Hürden",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. d)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1073",
+      "x": -91.08938026428223,
+      "y": 12.655463218688965
+    },
+    {
+      "key": "Bewertender_Vergleich",
+      "label": "Bewertender_Vergleich",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Vergleich",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. e)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=985",
+      "x": -114.90864944458008,
+      "y": -13.952865600585938
+    },
+    {
+      "key": "Gewahrsein",
+      "label": "Gewahrsein",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#282828",
+      "borderColor": "#000000",
+      "cluster": "Mixed",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "wissen",
+          "citation": "(Schreiber, 04.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. o)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=430",
+      "x": 61.68856430053711,
+      "y": 36.804500579833984
+    },
+    {
+      "key": "Feindliche_Begegnung",
+      "label": "Feindliche_Begegnung",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "kämpfen",
+          "citation": "(Schröder, 26.08.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. l)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1199",
+      "x": 113.67418670654297,
+      "y": -0.25604042410850525
+    },
+    {
+      "key": "Beschädigen",
+      "label": "Beschädigen",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Schaden zufügen",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Gehrecke, F., o. D. f)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1049",
+      "x": -107.68824005126953,
+      "y": -22.46803092956543
+    },
+    {
+      "key": "Sparsamkeit",
+      "label": "Sparsamkeit",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "sparen",
+          "citation": "(Riewa, 20.07.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. aa)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1178",
+      "x": -63.38089942932129,
+      "y": 32.64700698852539
+    },
+    {
+      "key": "Verursachen",
+      "label": "Verursachen",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "Ursache",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 2
+        }
+      ],
+      "citation": "(Neumair, P. A., o. D. z)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=1080",
+      "x": -6.985557317733765,
+      "y": 44.291255950927734
+    },
+    {
+      "key": "Zurücklassen",
+      "label": "Zurücklassen",
+      "size": 3,
+      "sizeMigration": 0,
+      "sizeEducation": 3,
+      "color": "#d5a700",
+      "borderColor": "#ac8600",
+      "cluster": "Bildung",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "auf der Strecke bleiben",
+          "citation": "(Rakers, 12.09.2023)",
+          "count": 1
+        }
+      ],
+      "citation": "(Heinrich-Heine-Universität Düsseldorf, o. D. ah)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=510",
+      "x": -10.361226081848145,
+      "y": 82.9826889038086
+    },
+    {
+      "key": "Warten",
+      "label": "Warten",
+      "size": 3,
+      "sizeMigration": 3,
+      "sizeEducation": 0,
+      "color": "#0072b2",
+      "borderColor": "#005280",
+      "cluster": "Migration",
+      "category": "Unknown",
+      "node_type": "frame",
+      "data_points": [
+        {
+          "text": "warten",
+          "citation": "(Schröder, 29.02.2024)",
+          "count": 1
+        }
+      ],
+      "citation": "(Triesch, S., o. D. c)",
+      "url": "https://framenet-constructicon.hhu.de/framenet/frame?id=249",
+      "x": 52.70895767211914,
+      "y": -60.77934265136719
+    }
+  ],
+  "edges": [
+    {
+      "source": "Migration",
+      "target": "Ausland_oder_Inland",
+      "color": "#0072b2",
+      "weight": 3.3333333333333335,
+      "weightMigration": 3.3333333333333335,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Dokumente",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Job_bekommen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Schwierigkeit",
+      "color": "#0072b2",
+      "weight": 4.0,
+      "weightMigration": 3.3333333333333335,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Ankommen",
+      "color": "#0072b2",
+      "weight": 2.0,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Systemkomplexität",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Unterstützen",
+      "color": "#0072b2",
+      "weight": 2.6666666666666665,
+      "weightMigration": 2,
+      "weightEducation": 2.0
+    },
+    {
+      "source": "Migration",
+      "target": "Wertänderung_auf_Skala",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Erfolg_oder_Fehlschlag",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Platzieren",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Bildung_Lehre",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Negativ_konditional",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Personen_nach_Alter",
+      "color": "#0072b2",
+      "weight": 3.3333333333333335,
+      "weightMigration": 2,
+      "weightEducation": 2.0
+    },
+    {
+      "source": "Migration",
+      "target": "Versorgung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Wettbewerbsausgang",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Voraussetzung_Szenario",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Personen_nach_Herkunft",
+      "color": "#0072b2",
+      "weight": 2.6666666666666665,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Politische_Örtlichkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Diversität",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Lesen_Aktivität",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Wichtigkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Knappheit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Ähnlichkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Gelegenheit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Herkunft",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Auswählen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Gewahrsein",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Personen_nach_Gerichtsbarkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Zurückgelegter_Weg",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Bereitschaft",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Sparsamkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Migration",
+      "target": "Grad_des_Kraftwiderstandes",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Verursachen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Migration",
+      "target": "Erforderliches_Ereignis",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausland_oder_Inland",
+      "target": "Ausbildung",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausland_oder_Inland",
+      "target": "Arbeitsmarkt",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Dokumente",
+      "color": "#d5a700",
+      "weight": 2.0,
+      "weightMigration": 2.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Personen_nach_Alter",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Erwerbstätigkeit",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Gelegenheit",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Job_bekommen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Bildung_Lehre",
+      "color": "#d5a700",
+      "weight": 3.3333333333333335,
+      "weightMigration": 2.6666666666666665,
+      "weightEducation": 2
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Unterstützen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Wichtigkeit",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Fachbereiche",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Bewegung",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Auswählen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Zurückgelegter_Weg",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Ähnlichkeit",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Erfolg_oder_Fehlschlag",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Knappheit",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Verursachen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Zurücklassen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Bewerten",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Schwierigkeit",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Ausbildung",
+      "target": "Umfassen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Dokumente",
+      "target": "Deutsch",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Dokumente",
+      "target": "Integration",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Flüchten",
+      "color": "#0072b2",
+      "weight": 8.666666666666666,
+      "weightMigration": 8.0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Personen_nach_Herkunft",
+      "color": "#0072b2",
+      "weight": 2.6666666666666665,
+      "weightMigration": 2.6666666666666665,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Behandeln_und_Misshandeln",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Umfassen",
+      "color": "#0072b2",
+      "weight": 2.0,
+      "weightMigration": 2.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Unterstützen",
+      "color": "#0072b2",
+      "weight": 2.0,
+      "weightMigration": 2.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Helfen",
+      "color": "#0072b2",
+      "weight": 2.0,
+      "weightMigration": 2.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Beurteilung_kommunizieren",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Verpflichtung_Szenario",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Nutzen_oder_Schaden_verursachen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Temporärer_Aufenthalt",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Arbeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Bereitschaft",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Bewertung_Sozialverhalten",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Empfangen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Gradierbare_Attribute",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Schwierigkeit",
+      "color": "#0072b2",
+      "weight": 2.6666666666666665,
+      "weightMigration": 2.0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Bildung_Lehre",
+      "color": "#0072b2",
+      "weight": 4.0,
+      "weightMigration": 3.3333333333333335,
+      "weightEducation": 2
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Wahrnehmung_aktiv",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Medizinische_Intervention",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Bewerten",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Eigenbewegung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Ankommen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Erwarteter_Standort_der_Person",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Kostspieligkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Reaktion",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Verbreitung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Politische_Örtlichkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Angriff",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Grad_des_Kraftwiderstandes",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Änderung_erfahren",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Ausdehnung_verursachen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Versorgung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Zwangslage",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Unterkunft_Szenario",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Bauen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Vertrautheit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Voraussetzung_Szenario",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Lobpreisung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Kompetenz",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Ähnlichkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Geflüchtete",
+      "target": "Job_bekommen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Flüchten",
+      "target": "Schule",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Handel_Szenario",
+      "color": "#882255",
+      "weight": 2.0,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Lokatives_Szenario",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Umfassen",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Helfen",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Suchen",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Schwierigkeit",
+      "color": "#882255",
+      "weight": 2.0,
+      "weightMigration": 2.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Medizinische_Intervention",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Negativ_konditional",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Wettbewerbsausgang",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Zwangslage",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Bildung_Lehre",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Erfolg_oder_Fehlschlag",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Knappheit",
+      "color": "#882255",
+      "weight": 2.0,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Sparsamkeit",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Unterstützen",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Voraussetzung_Szenario",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Kostspieligkeit",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Verursachen",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Behindern",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Arbeitsmarkt",
+      "target": "Erforderliches_Ereignis",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Handel_Szenario",
+      "target": "Schule",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Handel_Szenario",
+      "target": "Sprachkurs",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Bildung_Lehre",
+      "color": "#0072b2",
+      "weight": 8.0,
+      "weightMigration": 8.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Voraussetzung_Szenario",
+      "color": "#0072b2",
+      "weight": 2.0,
+      "weightMigration": 2.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Unterstützen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Bereitschaft",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Umfassen",
+      "color": "#0072b2",
+      "weight": 3.3333333333333335,
+      "weightMigration": 3.3333333333333335,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Versorgung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Behandeln_und_Misshandeln",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Empfangen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Gastfreundschaft",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Zwangslage",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Emotionen_durch_Stimulus",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Kostspieligkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Sprachkurs",
+      "target": "Warten",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Bildung_Lehre",
+      "target": "Berufstätigkeit",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Bildung_Lehre",
+      "target": "Schule",
+      "color": "#d5a700",
+      "weight": 8.0,
+      "weightMigration": 2.6666666666666665,
+      "weightEducation": 5.333333333333333
+    },
+    {
+      "source": "Bildung_Lehre",
+      "target": "Integration",
+      "color": "#0072b2",
+      "weight": 2.0,
+      "weightMigration": 2.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Bildung_Lehre",
+      "target": "Deutsch",
+      "color": "#0072b2",
+      "weight": 3.3333333333333335,
+      "weightMigration": 2.6666666666666665,
+      "weightEducation": 2
+    },
+    {
+      "source": "Bildung_Lehre",
+      "target": "Sprache",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Integration",
+      "target": "Umfassen",
+      "color": "#0072b2",
+      "weight": 8.0,
+      "weightMigration": 8.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Voraussetzung_Szenario",
+      "color": "#0072b2",
+      "weight": 4.0,
+      "weightMigration": 4.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Helfen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Absichtlich_handeln",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Erfolgreiche_Vollendung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Gelegenheit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Nutzen_oder_Schaden_verursachen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Schwierigkeit",
+      "color": "#0072b2",
+      "weight": 2.0,
+      "weightMigration": 2.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Wohnsitz",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Kompetenz",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Erforderliches_Ereignis",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Beurteilung_kommunizieren",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Emotionen_durch_Stimulus",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Politische_Örtlichkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Grad_des_Kraftwiderstandes",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Unterstützen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Erfolg_oder_Fehlschlag",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Zwangslage",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Fähigkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Grenze",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Bewegung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Personen_nach_Gerichtsbarkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Prüfung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Behindern",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Bewertender_Vergleich",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Geld",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Bauen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Bereitschaft",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Beschädigen",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Kostspieligkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Sparsamkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Integration",
+      "target": "Bewerten",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Umfassen",
+      "target": "Deutsch",
+      "color": "#0072b2",
+      "weight": 2.6666666666666665,
+      "weightMigration": 2.6666666666666665,
+      "weightEducation": 0
+    },
+    {
+      "source": "Umfassen",
+      "target": "Berufstätigkeit",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Umfassen",
+      "target": "Kita",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Umfassen",
+      "target": "Schule",
+      "color": "#d5a700",
+      "weight": 2.0,
+      "weightMigration": 2.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Voraussetzung_Szenario",
+      "target": "Deutsch",
+      "color": "#0072b2",
+      "weight": 2.6666666666666665,
+      "weightMigration": 2.6666666666666665,
+      "weightEducation": 0
+    },
+    {
+      "source": "Voraussetzung_Szenario",
+      "target": "Berufstätigkeit",
+      "color": "#882255",
+      "weight": 2.0,
+      "weightMigration": 2.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Voraussetzung_Szenario",
+      "target": "Kita",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Voraussetzung_Szenario",
+      "target": "Sprache",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Voraussetzung_Szenario",
+      "target": "Schule",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Behandeln_und_Misshandeln",
+      "target": "Berufstätigkeit",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Unterstützen",
+      "target": "Schule",
+      "color": "#d5a700",
+      "weight": 4.0,
+      "weightMigration": 2,
+      "weightEducation": 2.6666666666666665
+    },
+    {
+      "source": "Unterstützen",
+      "target": "Kita",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Unterstützen",
+      "target": "Sprache",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Personen_nach_Alter",
+      "target": "Schule",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Erwerbstätigkeit",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Gelegenheit",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Job_bekommen",
+      "color": "#882255",
+      "weight": 2.0,
+      "weightMigration": 2.0,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Schwierigkeit",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Absichtlich_handeln",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Arbeit",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Bereitschaft",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Beschäftigen",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Empfangen",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Wichtigkeit",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Fachbereiche",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Ähnlichkeit",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Kompetenz",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Berufstätigkeit",
+      "target": "Zurückgelegter_Weg",
+      "color": "#882255",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Gelegenheit",
+      "target": "Kita",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Gelegenheit",
+      "target": "Sprache",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schwierigkeit",
+      "target": "Deutsch",
+      "color": "#0072b2",
+      "weight": 2.6666666666666665,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schwierigkeit",
+      "target": "Schule",
+      "color": "#d5a700",
+      "weight": 3.3333333333333335,
+      "weightMigration": 2,
+      "weightEducation": 2.0
+    },
+    {
+      "source": "Schwierigkeit",
+      "target": "Sprache",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Schule",
+      "target": "Unsicherheit",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Schule",
+      "target": "Ankommen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Benötigen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Bewerten",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Fähigkeit",
+      "color": "#d5a700",
+      "weight": 2.0,
+      "weightMigration": 0,
+      "weightEducation": 2.0
+    },
+    {
+      "source": "Schule",
+      "target": "Messen_Szenario",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Systemkomplexität",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Wertänderung_auf_Skala",
+      "color": "#d5a700",
+      "weight": 2.6666666666666665,
+      "weightMigration": 0,
+      "weightEducation": 2.6666666666666665
+    },
+    {
+      "source": "Schule",
+      "target": "Zielen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Zurückgelegter_Weg",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Ähnlichkeit",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Empfangen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Erfolg_oder_Fehlschlag",
+      "color": "#d5a700",
+      "weight": 2.6666666666666665,
+      "weightMigration": 0,
+      "weightEducation": 2.6666666666666665
+    },
+    {
+      "source": "Schule",
+      "target": "Gefährdet_sein",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Geld",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Gradierbare_Attribute",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Herkunft",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Institutionen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Platzieren",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Emotionen_durch_Stimulus",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Schule",
+      "target": "Kostspieligkeit",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Schule",
+      "target": "Reaktion",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Schule",
+      "target": "Versorgung",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Schule",
+      "target": "Änderung_erfahren",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Aktivitätsvorbereitung",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Knappheit",
+      "color": "#d5a700",
+      "weight": 2.0,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Lesen_Aktivität",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Medizinische_Intervention",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Negativ_konditional",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Prüfung",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Stimulus_Fokussierung",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Zwangslage",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Diversität",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Prozess_Start",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Zustand_einer_Entität",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Gradierbare_Nähe",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Wahrnehmung",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Gewahrsein",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Schule",
+      "target": "Bauen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Feindliche_Begegnung",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Grad_des_Kraftwiderstandes",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Schule",
+      "target": "Verursachen",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Deutsch",
+      "target": "Absichtlich_handeln",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Deutsch",
+      "target": "Kompetenz",
+      "color": "#0072b2",
+      "weight": 3.3333333333333335,
+      "weightMigration": 2.6666666666666665,
+      "weightEducation": 2
+    },
+    {
+      "source": "Deutsch",
+      "target": "Persönliche_Beziehung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Deutsch",
+      "target": "Erforderliches_Ereignis",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Deutsch",
+      "target": "Gradierbare_Nähe",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Deutsch",
+      "target": "Fähigkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Deutsch",
+      "target": "Bewegung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Deutsch",
+      "target": "Erfolg_oder_Fehlschlag",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Deutsch",
+      "target": "Prüfung",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Deutsch",
+      "target": "Behindern",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Deutsch",
+      "target": "Zwangslage",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Fähigkeit",
+      "target": "Sprache",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Fähigkeit",
+      "target": "Kita",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Sprache",
+      "target": "Systemkomplexität",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Sprache",
+      "target": "Ähnlichkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Sprache",
+      "target": "Gefährdet_sein",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Sprache",
+      "target": "Erwarteter_Standort_der_Person",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Sprache",
+      "target": "Zwangslage",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Sprache",
+      "target": "Erfolg_oder_Fehlschlag",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Sprache",
+      "target": "Wichtigkeit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 2
+    },
+    {
+      "source": "Sprache",
+      "target": "Wahrnehmung_aktiv",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Sprache",
+      "target": "Knappheit",
+      "color": "#0072b2",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Wahrnehmung_aktiv",
+      "target": "Kita",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Versorgung",
+      "target": "Kita",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Kita",
+      "target": "Emotionen_durch_Stimulus",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Kita",
+      "target": "Aktivitätsvorbereitung",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Kita",
+      "target": "Prozess_Start",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Kita",
+      "target": "Wichtigkeit",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 0,
+      "weightEducation": 2
+    },
+    {
+      "source": "Kita",
+      "target": "Knappheit",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    },
+    {
+      "source": "Kita",
+      "target": "Zwangslage",
+      "color": "#d5a700",
+      "weight": 2,
+      "weightMigration": 2,
+      "weightEducation": 0
+    }
+  ],
+  "clusters": [
+    {
+      "key": "Bildung",
+      "color": "#d5a700",
+      "label": "Bildung"
+    },
+    {
+      "key": "Arbeit",
+      "color": "#882255",
+      "label": "Arbeit"
+    },
+    {
+      "key": "Migration",
+      "color": "#0072b2",
+      "label": "Migration"
+    },
+    {
+      "key": "Mixed",
+      "color": "#282828",
+      "label": "Gemischt"
+    }
+  ],
+  "categories": [
+    {
+      "key": "Bildung",
+      "label": "Bildungsdiskurs"
+    },
+    {
+      "key": "Migration",
+      "label": "Migrationsdiskurs"
+    }
+  ]
+}
